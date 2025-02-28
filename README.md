@@ -6,7 +6,7 @@ Hi there! I'm a passionate Junior Web Developer with experience in building mode
 🔧 Tech Stack:
 
 Frontend: HTML | CSS | SCSS | JavaScript (ES6+) | React
-Design: Responsive Design | UI/UX Principles
+Design: Responsive Design
 Tools: Git | VS Code | Chrome DevTools
 
 
